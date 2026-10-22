@@ -2,7 +2,7 @@
 
 A high-performance, web-native graphing engine engineered for advanced mathematical functions and real-time numerical calculus visualization.
 
-## Live Demo: https://heyysizzii.github.io/Calculas-Core/
+## Live Demo: https://calculascore.vercel.app/
 
 ## 🚀 Features
 
